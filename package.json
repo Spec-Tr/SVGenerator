@@ -1,0 +1,21 @@
+{
+  "name": "svgenerator",
+  "version": "1.0.0",
+  "description": "A CLI prompt app to generate basic .svg files with a coloured shape and coloured text.",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "testing": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
