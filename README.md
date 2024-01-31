@@ -10,6 +10,9 @@ A simple CLI app that prompts users to select 3 characters of text, a text colou
 
 https://spec-tr.github.io/SVGenerator/
 
+## Installation/Usage Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1dXKiP6rpecpanj-zkiq9fUI5oFSjGyKa/view)
 
 ## Technologies
 
