@@ -1,6 +1,6 @@
 # SVGenerator
 
-![Screenshot of the app as viewed in a desktop browser](assets/images/SVGenCap.png)
+![Screenshot of the app as viewed in an integrated development environment](assets/images/SVGenCap.png)
 
 ## Description
 
